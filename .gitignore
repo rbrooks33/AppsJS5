@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AppsJS5/.vs/AppsJS5
+/AppsJS5/bin/Debug
+/AppsJS5/obj
+/AppsJS5/Properties
+/AppsJS5/appsettings.json
+/AppsJS5/appsettings.Development.json

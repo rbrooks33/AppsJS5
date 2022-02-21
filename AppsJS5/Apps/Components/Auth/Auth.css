@@ -1,0 +1,9 @@
+﻿.Auth_SignInButton_Class {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #009500;
+    border-color: #009500;
+    position: absolute;
+    top: 6px;
+    left: 206px;
+}
