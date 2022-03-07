@@ -1,7 +1,7 @@
 ﻿
 using Microsoft.AspNetCore.Mvc;
 
-namespace AppsJSNuget
+namespace brooksoft.appsjs
 {
     [Route("api/[controller]")]
     public class Class1Controller : Controller
